@@ -1,4 +1,4 @@
-<p> align="center">
+<p align="center">
 <h1 style="font-size: 50px;">Hey there! I'm Kartikeya Gupta!</h1>
 </p>
 <p align="center">
