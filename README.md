@@ -1,8 +1,9 @@
 
-<h1 align="center" style="font-size: 50px;"> 👋🏻 Hey there! I'm Kartikeya Gupta!</h1>
+<h1 align="center" style="font-size: 50px;"> 🙏🏻 Namaste! I'm Kartikeya Gupta!</h1>
 
 <p align="center">
-  <strong style="font-size: 30px;">🚀 Developer | 🎓 Final Year CS @ IIIT Nagpur | 🇮🇳 India</strong>
+  <strong style="font-size: 30px;">🚀 Developer | 🎓 Final Year CSE at IIIT Nagpur | India</strong>
+  <strong style="font-size: 30px;">🌸 Code with Purpose, Build with Passion</strong>
 </p>
 
 <!-- Slim grey line -->
