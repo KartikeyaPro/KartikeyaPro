@@ -1,5 +1,9 @@
-## Hi there 👋 I'm Kartikeya Gupta
-💻 Developer | 🧑🏻‍🎓 CSE Student at IIIT Nagpur | India <br> 🌸 Code with Purpose, Build with Passion
+<p>
+## <h1 style="font-size: 50px;">Hey there! I'm Kartikeya Gupta!</h1>
+</p>
+<p align="center">
+  <strong style="font-size: 30px;">🚀 Developer | 🎓 Final Year CS @ IIIT Nagpur | 🇮🇳 India</strong>
+</p>
 
 
 # 💫 About Me:
