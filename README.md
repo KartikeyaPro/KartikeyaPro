@@ -1,10 +1,13 @@
 <p align="center">
-  <h1 style="font-size: 50px;">👋🏻 Hey there! I'm Kartikeya Gupta!</h1>
+  <img src="https://img.icons8.com/ios/50/000000/handshake.png" alt="wave" />
 </p>
+
+<h1 align="center" style="font-size: 50px;">Hey there! I'm Kartikeya Gupta!</h1>
 
 <p align="center">
   <strong style="font-size: 30px;">🚀 Developer | 🎓 Final Year CS @ IIIT Nagpur | 🇮🇳 India</strong>
 </p>
+
 
 
 # 💫 About Me:
