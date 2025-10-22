@@ -1,14 +1,12 @@
-<p align="center">
-  <img src="https://img.icons8.com/ios/50/000000/handshake.png" alt="wave" />
-</p>
 
-<h1 align="center" style="font-size: 50px;">Hey there! I'm Kartikeya Gupta!</h1>
+<h1 align="center" style="font-size: 50px;"> 👋🏻 Hey there! I'm Kartikeya Gupta!</h1>
 
 <p align="center">
   <strong style="font-size: 30px;">🚀 Developer | 🎓 Final Year CS @ IIIT Nagpur | 🇮🇳 India</strong>
 </p>
 
-
+<!-- Slim grey line -->
+<hr style="border: 0; height: 1px; background-color: #d3d3d3; width: 80%; margin: 20px auto;"/>
 
 # 💫 About Me:
 🎓   Final year CS undergraduate at IIIT Nagpur.<br>🌱   Continuously learning and exploring new technologies.
